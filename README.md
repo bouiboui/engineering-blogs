@@ -28,24 +28,24 @@
 * 8th Light <https://twitter.com/8thLightInc>
 
 #### A companies
-* AdRoll http://tech.adroll.com/blog/
-* Advanced Web Machinery https://advancedweb.hu/
-* Adzerk http://adzerk.com/tech/
-* Airbnb http://nerds.airbnb.com/
-* AirPair https://www.airpair.com/software-experts
-* Algolia https://blog.algolia.com/
-* Allegro.tech http://allegro.tech
-* AlphaSights http://engineering-blog.alphasights.com/
-* Appnexus http://techblog.appnexus.com/
-* Arkency http://blog.arkency.com/
-* Artsy http://artsy.github.io/
-* Asana https://blog.asana.com/category/eng/
-* Atlassian https://developer.atlassian.com/blog/
-* Atomic Object https://spin.atomicobject.com/
-* Auth0 https://auth0.com/blog/
-* Autodesk http://cloudengineering.autodesk.com/blog/
-* AWS https://aws.amazon.com/blogs/aws/
-* Azavea https://www.azavea.com/blog/category/software-development/
+* AdRoll <https://twitter.com/AdRollDev>
+* Advanced Web Machinery <https://twitter.com/advancedwebhu>
+* Adzerk <https://twitter.com/adzerktech>
+* Airbnb <https://twitter.com/AirbnbEng>
+* AirPair
+* Algolia <https://twitter.com/algolia>
+* Allegro.tech <https://twitter.com/AllegroTechBlog>
+* AlphaSights
+* Appnexus <https://twitter.com/AppNexusEng>
+* Arkency <https://twitter.com/arkency>
+* Artsy <https://twitter.com/artsyopensource>
+* Asana <https://twitter.com/asanaeng>
+* Atlassian <https://twitter.com/Atlassian>
+* Atomic Object <https://twitter.com/atomicobject>
+* Auth0 <https://twitter.com/auth0>
+* Autodesk
+* AWS <https://twitter.com/jeffbarr>
+* Azavea
 
 #### B companies
 * Badoo https://techblog.badoo.com/
