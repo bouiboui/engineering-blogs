@@ -24,8 +24,8 @@
 ### Companies
 
 #### \# companies
-* 500px https://developers.500px.com/
-* 8th Light http://blog.8thlight.com/
+* 500px
+* 8th Light <https://twitter.com/8thLightInc>
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
