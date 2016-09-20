@@ -71,29 +71,29 @@
 * Buzzfeed
 
 #### C companies
-* Canva https://engineering.canva.com
-* Carbon Five http://blog.carbonfive.com/
-* CenturyLink https://www.ctl.io/developers/blog
-* Cerner http://engineering.cerner.com/
-* Chaps https://blog.chaps.io/
-* Chartbeat http://engineering.chartbeat.com/
-* Chef https://www.chef.io/blog/
-* Clever http://engineering.clever.com/
+* Canva <https://twitter.com/CanvaTech>
+* Carbon Five <https://twitter.com/carbonfive>
+* CenturyLink 
+* Cerner <https://twitter.com/CernerEng>
+* Chaps
+* Chartbeat
+* Chef <https://twitter.com/chef>
+* Clever <https://twitter.com/CleverTap>
 * CleverTap https://blog.clevertap.com/category/engineering/
-* Cloudera http://blog.cloudera.com/
-* Cloudflare https://blog.cloudflare.com/
-* ClusterHQ https://clusterhq.com/blog/
-* CockroachDB http://www.cockroachlabs.com/blog/
-* Code School https://www.codeschool.com/blog/categories/development/
-* Codelitt http://www.codelitt.com/blog/
-* Codemancers http://crypt.codemancers.com/
-* Codementor https://www.codementor.io/tutorial
-* CodeName One http://www.codenameone.com/blog.html
-* Codeship http://blog.codeship.com/
-* Collective Idea http://collectiveidea.com/blog/
-* Confluent http://www.confluent.io/blog
-* Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
+* Cloudera <https://twitter.com/ClouderaEng>
+* Cloudflare <https://twitter.com/cloudflare>
+* ClusterHQ <https://twitter.com/clusterhq>
+* CockroachDB
+* Code School
+* Codelitt 
+* Codemancers <https://twitter.com/codemancershq>
+* Codementor <https://twitter.com/codementorIO>
+* CodeName One <https://twitter.com/Codename_One>
+* Codeship <https://twitter.com/codeship>
+* Collective Idea <https://twitter.com/collectiveidea>
+* Confluent 
+* Coolblue
+* Criteo <https://twitter.com/CriteoEng>
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
