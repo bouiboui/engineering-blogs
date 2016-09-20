@@ -48,27 +48,27 @@
 * Azavea
 
 #### B companies
-* Badoo https://techblog.badoo.com/
-* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
-* Bandcamp https://bandcamptech.wordpress.com/
-* Base Lab https://lab.getbase.com/category/engineering/
-* Bazaarvoice http://blog.developer.bazaarvoice.com/
-* Benchling http://benchling.engineering/
-* BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
-* Bigcommerce http://www.bigeng.io/
-* Binary Studio http://binary-studio.com/blog/
-* Bitly http://word.bitly.com/
-* BitTorrent http://engineering.bittorrent.com/
-* BlaBlaCar http://blablatech.com/blog/
-* BlackRock http://rockthecode.io/
-* Blogfoster http://engineering.blogfoster.com/
-* BloomReach http://engineering.bloomreach.com/
-* Booking.com http://blog.booking.com/
-* Box https://www.box.com/blog/engineering/
-* Boxever http://www.boxever.com/tech-blog
-* Brandwatch http://engineering.brandwatch.com/
-* Budacode https://blog.budacode.com/
-* Buzzfeed https://www.buzzfeed.com/techblog
+* Badoo <https://twitter.com/badootech>
+* Baidu Research <https://twitter.com/baiduresearch>
+* Bandcamp
+* Base Lab <https://twitter.com/getbaselab>
+* Bazaarvoice
+* Benchling
+* BenefitFocus
+* Bigcommerce <https://twitter.com/BigEng>
+* Binary Studio
+* Bitly
+* BitTorrent
+* BlaBlaCar <https://twitter.com/BlaBlaCarTech>
+* BlackRock
+* Blogfoster <https://twitter.com/blogfostertech>
+* BloomReach
+* Booking.com
+* Box <https://twitter.com/BoxEng>
+* Boxever
+* Brandwatch
+* Budacode <https://twitter.com/budacode>
+* Buzzfeed
 
 #### C companies
 * Canva https://engineering.canva.com
