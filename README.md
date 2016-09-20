@@ -96,16 +96,16 @@
 * Criteo <https://twitter.com/CriteoEng>
 
 #### D companies
-* Dailymotion http://engineering.dailymotion.com/
-* Data Artisans http://data-artisans.com/blog/
-* Databricks https://databricks.com/blog
-* DataFox http://eng.datafox.co/
-* DataRank http://engineering.datarank.com/
-* DeferPanic https://deferpanic.com/blog/
-* Deis https://deis.com/blog
-* DigitalOcean https://www.digitalocean.com/community/tutorials
-* Docker https://blog.docker.com/category/engineering/
-* Dropbox https://blogs.dropbox.com/tech/
+* Dailymotion <https://twitter.com/dailymotionEng>
+* Data Artisans <https://twitter.com/dataartisans>
+* Databricks <https://twitter.com/databricks>
+* DataFox
+* DataRank
+* DeferPanic
+* Deis <https://twitter.com/opendeis>
+* DigitalOcean <https://twitter.com/digitalocean>
+* Docker <https://twitter.com/docker>
+* Dropbox
 
 #### E companies
 * Ebay http://www.ebaytechblog.com/
